@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm coletdev/coletdjnz. FOSS Software developer and current CS student. 
+I'm coletdev/coletdjnz. Software developer and current CS student.
 
 ### Current projects
 
