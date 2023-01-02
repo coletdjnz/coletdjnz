@@ -1,8 +1,5 @@
 ### coletdjnz
 
-Software Developer and Computer Science student.
-
-I tend to break things in unexpected ways.
 
 ### Current projects
 
@@ -10,8 +7,3 @@ I tend to break things in unexpected ways.
 
 ### Older projects
 - [Stream Auto Archiver (SAA)](https://github.com/coletdjnz/saa) - Automatically archive livestreams using [Streamlink](https://github.com/streamlink/streamlink)
-
-----
-
-![](https://github-readme-stats.vercel.app/api?username=coletdjnz&count_private=true&show_icons=true&theme=github_dark&disable_animations=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coletdjnz&layout=compact&theme=github_dark)
